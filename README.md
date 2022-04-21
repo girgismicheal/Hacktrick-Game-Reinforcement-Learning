@@ -3,7 +3,7 @@ The work in this repo done during a dell competition (Hacktrick 2022). the chall
 
 ## The game (Name__of the game)
 the agents are responsible for building solar labs that consist of set of components (laptops, solar cell, projector ,container, constraction lab). the target to achieve the highest score
-by building the optimal set of labs.\n
+by building the optimal set of labs./n
 there are five types of labs:
 
 | Lab | Components |Build time  | Points |
