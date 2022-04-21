@@ -15,10 +15,15 @@ the agents are responsible for building solar labs that consist of set of compon
 
 
 ## Our Approaches
-#### Determinstic approach
+### Determinstic approach
 ...
+#### Results
+| Env | Mode |Epoch  | Score |
+| ------------- | -------------  |------------- | ------------- |
+| 8th Round |Single |400  | 780 |
+| 8th Round |collaborative|400  | 940  |
 
-#### Reinforcement learning approach
+### Reinforcement learning approach
 ....
 ##### Arcticures diagrams:
 ... <br />
@@ -28,7 +33,7 @@ The hyper paramters we tuned is:
 - 
 - 
 
-##### Results
+#### Results
 ###### For single mode:
 | Env | Mode |Epoch  | Score |
 | ------------- | -------------  |------------- | ------------- |
@@ -37,7 +42,7 @@ The hyper paramters we tuned is:
 
 
 
-### Team Members:
+## Team Members:
 - Girgis
 - Kiro
 - Kiro
