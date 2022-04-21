@@ -21,8 +21,8 @@ the agents are responsible for building solar labs that consist of set of compon
 #### Reinforcement learning approach
 ....
 ##### Arcticures diagrams:
-...
-THe hyper paramters we tuned is:
+... <br />
+The hyper paramters we tuned is:
 - 
 - 
 - 
