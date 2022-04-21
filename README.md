@@ -18,10 +18,10 @@ the agents are responsible for building solar labs that consist of set of compon
 ### Determinstic approach
 ...
 #### Results
-| Env | Mode |Epoch  | Score |
+| Env | Mode  | Score |
 | ------------- | -------------  |------------- | ------------- |
-| 8th Round |Single |400  | 780 |
-| 8th Round |collaborative|400  | 940  |
+| 8th Round |Single  | 1130 |
+| 8th Round |collaborative  | ...  |
 
 ### Reinforcement learning approach
 ....
