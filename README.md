@@ -45,5 +45,5 @@ the agents are responsible for building solar labs that consist of set of compon
 
 
 ## Team Members:
-- Girgis
+- [Girgis Micheal](https://github.com/girgismicheal)
 
