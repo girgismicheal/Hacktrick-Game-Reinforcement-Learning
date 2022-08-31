@@ -48,4 +48,4 @@ the agents are responsible for building solar labs that consist of set of compon
 - [Girgis Micheal](https://github.com/girgismicheal)
 - [Umar.M Ibrahim](https://github.com/moroclash)
 - [Kirolos Atef](https://github.com/KerolosAtef)
-- [Kyrillos Zakher]
+- [Kyrillos Zakher](https://github.com/KyrillosZakher00)
